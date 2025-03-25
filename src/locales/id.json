@@ -1,0 +1,75 @@
+{
+  "common": {
+    "add": "Tambah",
+    "edit": "Edit",
+    "delete": "Hapus",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "search": "Cari",
+    "name": "Nama",
+    "description": "Deskripsi",
+    "price": "Harga",
+    "submit": "Kirim"
+  },
+  "berryList": {
+    "searchPlaceholder": "Cari berdasarkan nama",
+    "columns": {
+      "no": "No",
+      "name": "Nama",
+      "actions": "Aksi"
+    },
+    "actions": {
+      "detail": "Detail",
+      "edit": "Edit",
+      "delete": "Hapus"
+    },
+    "noResults": "Tidak ada hasil yang ditemukan",
+    "addNew": "Tambah Baru"
+  },
+  "pagination": {
+    "rowsPerPage": "Baris per halaman",
+    "showing": "Menampilkan",
+    "of": "dari"
+  },
+  "berryDetail": {
+    "title": "Detail Berry",
+    "selectOther": "Pilih berry lain",
+    "viewButton": "Lihat",
+    "backToList": "Kembali ke Daftar",
+    "basicInfo": "Informasi Dasar",
+    "growth": "Waktu Tumbuh",
+    "units": {
+      "time": "hari"
+    },
+    "maxHarvest": "Panen Maksimal",
+    "size": "Ukuran",
+    "smoothness": "Kelembutan",
+    "soilDryness": "Kekeringan Tanah",
+    "firmness": "Kekerasan",
+    "flavors": "Rasa",
+    "flavor": "Rasa",
+    "potency": "Potensi",
+    "actions": {
+      "edit": "Edit",
+      "delete": "Hapus"
+    }
+  },
+  "product": {
+    "create": {
+      "title": "Buat Berry"
+    },
+    "edit": {
+      "title": "Edit Berry"
+    },
+    "title": "Nama",
+    "description": "Deskripsi",
+    "price": "Harga",
+    "actions": {
+      "add": "Tambah Berry",
+      "edit": "Edit",
+      "delete": "Hapus"
+    },
+    "category": "Kategori",
+    "image_url": "URL Gambar"
+  }
+}

@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@import 'primeicons/primeicons.css';
+
+button {
+  @apply cursor-pointer;
+}
+
+input,
+textarea {
+  @apply w-full px-4 py-2 border rounded-lg;
+}

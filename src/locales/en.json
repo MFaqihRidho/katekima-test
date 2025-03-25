@@ -1,0 +1,75 @@
+{
+  "common": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "save": "Save",
+    "search": "Search",
+    "name": "Name",
+    "description": "Description",
+    "price": "Price",
+    "submit": "Submit"
+  },
+  "berryList": {
+    "searchPlaceholder": "Search by name",
+    "columns": {
+      "no": "No",
+      "name": "Name",
+      "actions": "Actions"
+    },
+    "actions": {
+      "detail": "Detail",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "noResults": "No results found",
+    "addNew": "Add New"
+  },
+  "pagination": {
+    "rowsPerPage": "Rows per page",
+    "showing": "Showing",
+    "of": "of"
+  },
+  "berryDetail": {
+    "title": "Berry Detail",
+    "selectOther": "Select other berry",
+    "viewButton": "View",
+    "backToList": "Back to List",
+    "basicInfo": "Basic Info",
+    "growth": "Growth Time",
+    "units": {
+      "time": "days"
+    },
+    "maxHarvest": "Max Harvest",
+    "size": "Size",
+    "smoothness": "Smoothness",
+    "soilDryness": "Soil Dryness",
+    "firmness": "Firmness",
+    "flavors": "Flavors",
+    "flavor": "Flavor",
+    "potency": "Potency",
+    "actions": {
+      "edit": "Edit",
+      "delete": "Delete"
+    }
+  },
+  "product": {
+    "create": {
+      "title": "Create Berry"
+    },
+    "edit": {
+      "title": "Edit Berry"
+    },
+    "title": "Name",
+    "description": "Description",
+    "price": "Price",
+    "actions": {
+      "add": "Add Berry",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "category": "Category",
+    "image_url": "Image URL"
+  }
+}
