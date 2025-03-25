@@ -21,10 +21,10 @@ const initialData = ref<Partial<ProductFormData>>({
 const createProduct = async (data: ProductFormData) => {
   try {
     await productStore.addProduct(data)
-    toast.success('Product created successfully')
+    toast.success('Berry created successfully')
     router.push('/berries')
   } catch (error) {
-    toast.error('Failed to create product')
+    toast.error('Failed to create berry')
   }
 }
 </script>
